@@ -7,7 +7,7 @@ const config: Config = {
   tagline: 'Dinosaurs are cool',
   favicon: 'img/favicon.ico',
   url: 'https://test-doc.github.io',
-  baseUrl: '/',
+  baseUrl: '/test-doc.github.io/',
   organizationName: 'wrteam-jay',
   projectName: 'test-doc.github.io',
   trailingSlash: false,
