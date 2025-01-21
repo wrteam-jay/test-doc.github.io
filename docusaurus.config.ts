@@ -10,6 +10,7 @@ const config: Config = {
   baseUrl: '/',
   organizationName: 'wrteam-jay',
   projectName: 'test-doc.github.io',
+  trailingSlash: false,
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
